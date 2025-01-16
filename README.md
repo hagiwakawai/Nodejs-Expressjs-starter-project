@@ -9,7 +9,7 @@ A project to learn for my intership
 
 # The project covers:
 
-Setting up a Node.js server with Express.
-Creating dynamic routes.
-Organizing code into modules for better scalability.
-Learning basic version control with Git.
+Setting up a Node.js server with Express.  
+Creating dynamic routes.  
+Organizing code into modules for better scalability.  
+Learning basic version control with Git.  
