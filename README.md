@@ -1,11 +1,10 @@
 # Simple Node.js and Express.js Server
 A project to learn for my intership
 
-# This is a simple Node.js and Express.js server project designed for learning the basics of backend development. It includes two main routes:
+# This is a simple Node.js and Express.js server project for learning the basics of backend development. It includes two main routes:
 
-/test: A basic route that returns ok: true. 
-
-/greet/:name: A dynamic route that greets the user with the value they provide after the slash, e.g., /greet/John returns Hello, John!.
+/test: A basic route that returns ok: true.   
+/greet/:name: A dynamic route that greets the user with the value they provide after the slash, e.g., /greet/Gen returns Hello, Gen!!.  
 
 # The project covers:
 
