@@ -1,5 +1,5 @@
 # Simple Node.js and Express.js Server
-A project to learn for my intership
+A project to learn for my internship 
 
 # This is a simple Node.js and Express.js server project for learning the basics of backend development. It includes two main routes:
 
